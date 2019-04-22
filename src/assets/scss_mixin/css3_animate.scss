@@ -1,0 +1,10 @@
+@mixin animate-cloud {
+  @keyframes animate-cloud {
+    from {
+      background-position: 600px 100%;
+    }
+    to {
+      background-position: 0 100%;
+    }
+  }
+}
